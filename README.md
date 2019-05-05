@@ -1,0 +1,3 @@
+# Vagrant info for Linux
+
+
